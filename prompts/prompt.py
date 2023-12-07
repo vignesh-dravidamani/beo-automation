@@ -1,0 +1,1 @@
+zone_prompt = 'Extract the names of consumable food items in the banquet event order below and show as a python map of arrays which kitchen zone these consumable food items should be assigned to for preparation, that is, either of hot kitchen or cold kitchen or baking or beverage or other.\n{menu_items}'
